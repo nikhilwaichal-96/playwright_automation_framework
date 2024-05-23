@@ -1,0 +1,5 @@
+# third party files
+node_modules
+
+# output
+dist
