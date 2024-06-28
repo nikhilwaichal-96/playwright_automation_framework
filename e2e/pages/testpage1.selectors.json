@@ -1,0 +1,8 @@
+{
+    "login":{
+        "username": "input[name='username']",
+        "password": "input[name='password']",
+        "loginButton": "button[type='submit']"
+    },
+    "iframe":"iframe[src='https://www.w3schools.com']"
+}
